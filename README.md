@@ -2,7 +2,7 @@
 
 CAPSTONE DESIGN
 
-- https://github.com/gwonbe/library-webpage
+- ( 한림대학교 방학 pre-CapstoneDesign ) : https://github.com/gwonbe/library-webpage
 
 PROJECT
 
