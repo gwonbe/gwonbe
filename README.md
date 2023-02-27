@@ -6,7 +6,7 @@ CAPSTONE DESIGN
 
 PROJECT
 
-- ( Nomad Coders / 바닐라JS챌린지 / momentum ) : https://gwonbe.github.io/momentum/
+- ( Nomad Coders / 바닐라JS챌린지 ) : https://gwonbe.github.io/momentum/ https://github.com/gwonbe/momentum
 - ( Nomad Coders / 바닐라JS로 그림앱 만들기 ) : https://github.com/gwonbe/meme-maker
 
 MINI PROJECT (CodeSandbox)
