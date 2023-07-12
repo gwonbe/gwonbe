@@ -8,7 +8,7 @@ PROJECT
 
 - 웹프로그래밍 - With Honey Bee : https://github.com/gwonbe/with-honey-bee
 - 웹서버구축 - 고향말 사전 : https://github.com/gwonbe/dialect-dictionary
-- voice to do list : https://github.com/jiyerin/O.O.O (@jiyerin, @gwonbe)
+- O.O.O (voice to do list) : https://github.com/jiyerin/O.O.O (@jiyerin, @gwonbe)
 
 MINI PROJECT 
 
