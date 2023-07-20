@@ -1,5 +1,9 @@
 # gwonbe
 
+BLOG
+
+- https://gwonbe.github.io/ ( https://github.com/gwonbe/gwonbe.github.io )
+
 CAPSTONE DESIGN
 
 - 한림대학교 pre-CapstoneDesign : https://github.com/gwonbe/library-webpage (@gwonbe, @jangdayeon)
