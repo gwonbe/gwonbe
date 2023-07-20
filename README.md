@@ -2,7 +2,7 @@
 
 BLOG
 
-- https://gwonbe.github.io/ ( https://github.com/gwonbe/gwonbe.github.io )
+- GitHub Blog : https://gwonbe.github.io/ ( https://github.com/gwonbe/gwonbe.github.io )
 
 CAPSTONE DESIGN
 
