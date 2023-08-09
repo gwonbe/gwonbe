@@ -16,8 +16,11 @@ PROJECT
 MINI PROJECT 
 
 - O.O.O (voice to do list) : https://github.com/jiyerin/O.O.O (@jiyerin, @gwonbe)
+- 한림모여코딩 : https://github.com/gwonbe/gwonbe-hallym-moyeo-coding
+- 토이 프로젝트 : https://github.com/gwonbe/gwonbe-toy
+
+CLONE CODING
+
 - Nomad Coders 바닐라JS챌린지 : https://github.com/gwonbe/gwonbe-nomad-coders-momentum
 - Nomad Coders 바닐라JS로 그림앱 만들기 : https://github.com/gwonbe/gwonbe-nomad-coders-meme-maker
 - Nomad Coders 눈송이 내리기 : https://codesandbox.io/s/nomadcoders-snow-effect-sjcsrd
-- 한림모여코딩 : https://github.com/gwonbe/gwonbe-hallym-moyeo-coding
-- 토이 프로젝트 : https://github.com/gwonbe/gwonbe-toy
