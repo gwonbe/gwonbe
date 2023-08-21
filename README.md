@@ -19,7 +19,7 @@ PROJECT
 - 웹프로그래밍 - With Honey Bee : https://github.com/gwonbe/gwonbe-hallym-class-with-honey-bee
 - 웹서버구축 - 고향말 사전 : https://github.com/gwonbe/gwonbe-hallym-class-dialect-dictionary
 
-MINI PROJECT 
+PRACTICE
 
 - O.O.O (voice to do list) : https://github.com/jiyerin/O.O.O (@jiyerin, @gwonbe)
 - 한림모여코딩 : https://github.com/gwonbe/gwonbe-hallym-moyeo-coding
