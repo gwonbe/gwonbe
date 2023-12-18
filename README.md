@@ -14,6 +14,7 @@ PROJECT
 
 - 웹프로그래밍 - With Honey Bee : https://github.com/gwonbe/gwonbe-hallym-class-with-honey-bee
 - 웹서버구축 - 고향말 사전 : https://github.com/gwonbe/gwonbe-hallym-class-dialect-dictionary
+- 웹프레임워크활용 - W-log : https://github.com/gwonbe/gwonbe-hallym-class-wlog
 
 PRACTICE
 
