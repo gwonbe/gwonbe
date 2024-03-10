@@ -14,7 +14,7 @@ PROJECT
 
 PRACTICE
 
-- O.O.O (voice to do list) : https://github.com/jiyerin/O.O.O (@jiyerin, @gwonbe)
+- O.O.O (voice to do list) : https://github.com/jiyerin/O.O.O (@YerinJi, @gwonbe)
 - 한림모여코딩 : https://github.com/gwonbe/gwonbe-hallym-moyeo-coding
 
 CLONE CODING
