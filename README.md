@@ -5,6 +5,7 @@
 CAPSTONE DESIGN
 
 - 한림대학교 pre-CapstoneDesign : https://github.com/gwonbe/library-webpage (@gwonbe, @jangdayeon)
+- 소프트웨어캡스톤디자인 : https://github.com/gwonbe/da-ara_web_team
 
 PROJECT
 
