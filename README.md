@@ -5,7 +5,7 @@
 CAPSTONE DESIGN
 
 - pre-CapstoneDesign : https://github.com/gwonbe/library-webpage (@gwonbe, @jangdayeon)
-- 핑프를 살려조 - 다아라 : https://github.com/gwonbe/Hallym_Chat-bot & https://github.com/gwonbe/da-ara_web_team
+- 핑프를 살려조 - 다아라 : https://github.com/Kimsuyeon0809/Hallym_Chat-bot & https://github.com/gwonbe/da-ara_web_team
 
 PROJECT
 
