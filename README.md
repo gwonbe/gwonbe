@@ -16,6 +16,10 @@ PROJECT
 - 웹프로그래밍 - With Honey Bee : https://github.com/gwonbe/gwonbe-hallym-class-with-honey-bee
 - 모바일프로그래밍 - 계산기 미니 프로젝트 : https://github.com/gwonbe/gwonbe-hallym-class-calculator
 
+HACKATHON
+
+- 제6회 Hallym SW Week - 오픈소스 웹개발 해커톤 :  https://github.com/gwonbe/hannabada (@YerinJi, @gwonbe)
+
 PRACTICE
 
 - O.O.O (voice to do list) : https://github.com/jiyerin/O.O.O (@YerinJi, @gwonbe)
