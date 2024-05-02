@@ -11,9 +11,10 @@ CAPSTONE DESIGN
 
 PROJECT
 
-- 웹프로그래밍 - With Honey Bee : https://github.com/gwonbe/gwonbe-hallym-class-with-honey-bee
-- 웹서버구축 - 고향말 사전 : https://github.com/gwonbe/gwonbe-hallym-class-dialect-dictionary
 - 웹프레임워크활용 - W-log : https://github.com/gwonbe/gwonbe-hallym-class-wlog
+- 웹서버구축 - 고향말 사전 : https://github.com/gwonbe/gwonbe-hallym-class-dialect-dictionary
+- 웹프로그래밍 - With Honey Bee : https://github.com/gwonbe/gwonbe-hallym-class-with-honey-bee
+- 모바일프로그래밍 계산기 미니 프로젝트 : https://github.com/gwonbe/gwonbe-hallym-class-calculator
 
 PRACTICE
 
