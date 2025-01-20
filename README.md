@@ -4,6 +4,12 @@
 
 <hr>
 
+Work Experience
+
+- Boditech Med Inc. : 2024.07.01 ~ ing (Software Development Intern)
+
+<hr>
+
 CAPSTONE DESIGN
 
 - pre-CapstoneDesign : https://github.com/gwonbe/library-webpage (@gwonbe, @jangdayeon)
